@@ -1,9 +1,0 @@
--Creación y uso de objetos.
-Para crear una clase.
-public class ...
-Después lo que que quiero modelar
-Automóvil
-"public class Automóvil"
-
-Palabras reservadas de Java
--returnc

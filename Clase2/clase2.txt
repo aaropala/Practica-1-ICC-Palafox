@@ -1,0 +1,13 @@
+10/09/2026
+ICC Laboratorio
+-Primitivos de Java
+byte Entero de 8 bits
+short Entero de 16 bits
+int Entero de 32 bits
+long Entero de 64 bits
+float Real de 32 bits con 7 dígitos en la parte decimal
+double Real de 64 bits con 15 dígitos en la parte decimal
+char Carácter en 16-bits (Unicode)
+boolean Booleano
+-Palabras reservadas de Java
+false
